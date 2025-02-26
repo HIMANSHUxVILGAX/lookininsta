@@ -12,7 +12,7 @@ Legal disclaimer:
 Usage of lookininsta for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
 
-Features
+# Features:
 
 Multi-thread (100 attempts at once)
 Save/Resume sessions
@@ -21,10 +21,10 @@ Check valid usernames
 Default password list (best +39k 8 letters)
 Check and Install all dependencies
 
-Requirment:
+# Requirment:
 VS code, cursor or any code editor TERMINAL
 If not any of the linux distribution.
 
-commands: 
+# Commands: 
 ```bash
 git clone 
