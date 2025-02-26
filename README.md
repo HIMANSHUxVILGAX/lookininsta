@@ -37,5 +37,5 @@ sudo ./requirment.sh
 ```
 
 ```bash
-chmod +x instainsane.sh
-sudo ./instainsane.sh
+chmod +x lookininsta.sh
+sudo ./lookininsta.sh
