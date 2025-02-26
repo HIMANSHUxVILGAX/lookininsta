@@ -26,13 +26,13 @@ var2=$(echo $var0 | grep -o 'csrftoken=.*' | cut -d ';' -f1 | cut -d '=' -f2)
 
 
 banner() {
-    printf "\e[1;95m  __      __   _______   _        ____         /\     __    __           \e[0m\n"
-    printf "\e[1;95m  \ \    / /  |__   __| | |      /  __|       /  \    \ \  / /           \e[0m\n"
-    printf "\e[1;95m   \ \  / /      | |    | |     |  /         / /\ \    \ \/ /            \e[0m\n"
-    printf "\e[1;95m    \ \/ /       | |    | |     | |   ___   / /  \ \    \/ /             \e[0m\n"
-    printf "\e[1;95m     \  /      __| |__  | |___  \ \__| |   / /====\ \   / \ \            \e[0m\n"
-    printf "\e[1;95m      \/      |_______| |_____|  \_____|  /_/      \_\ /_/ \_\           \e[0m\n"
-    printf "\e[1;95m=====================------H I M A A N S H U------=====================\e[0m\n"
+    printf "\e[1;95m     __      __   _______   _        ____         /\     __    __                     \e[0m\n"
+    printf "\e[1;95m     \ \    / /  |__   __| | |      /  __|       /  \    \ \  / /                     \e[0m\n"
+    printf "\e[1;95m      \ \  / /      | |    | |     |  /         / /\ \    \ \/ /                      \e[0m\n"
+    printf "\e[1;95m       \ \/ /       | |    | |     | |   ___   / /  \ \    \/ /                       \e[0m\n"
+    printf "\e[1;95m        \  /      __| |__  | |___  \ \__| |   / /====\ \   / \ \                      \e[0m\n"
+    printf "\e[1;95m         \/      |_______| |_____|  \_____|  /_/      \_\ /_/ \_\                     \e[0m\n"
+    printf "\e[1;95m=====================------H I M A A N S H U------=====================            \e[0m\n"
     printf "\e[1;92m\e[41m  Instagram Brute Forcer v1.0, Author: HIMANSHUxVILGAX  himaanshu_20th \e[0m\n"
     printf "\e[1;93m \nWelcome to the Instagram Brute Forcer!\n\e[0m"
     printf "\e[1;94mPlease ensure you have the necessary permissions and dependencies.\n\e[0m"
