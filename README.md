@@ -22,9 +22,20 @@ Default password list (best +39k 8 letters)
 Check and Install all dependencies
 
 # Requirment:
-VS code, cursor or any code editor TERMINAL
-If not any of the linux distribution.
+VS code, cursor or any code editor TERMINAL.
+If not any of these use linux distribution.
 
 # Commands: 
 ```bash
-git clone 
+git clone https://github.com/HIMANSHUxVILGAX/lookininsta.git
+cd lookininsta
+```
+
+```bash
+chmod +x requirment.sh
+sudo ./requirment.sh
+```
+
+```bash
+chmod +x instainsane.sh
+sudo ./instainsane.sh
